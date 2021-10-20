@@ -19,6 +19,5 @@ export default {
   color: #2c3e50;
   display: flex;
   flex-direction: column;
-  text-align: center;
 }
 </style>
